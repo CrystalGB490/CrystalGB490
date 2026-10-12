@@ -1,6 +1,6 @@
 # Hallo 👋, Mein Name ist Kevin
 
-Ich bin ein absoluter Anfänger in der großen Programmierwelt. 
+Ich bin ein Anfänger in der großen Programmierwelt. 
 
 
 ## Was ich zurzeit lerne? 
