@@ -1,6 +1,5 @@
 # Hallo 👋, Ich bin Kevin
 
-<!-- Short intro -->
 ich bin ein absoluter Anfänger in der großen Programmierwelt. 
 
 
