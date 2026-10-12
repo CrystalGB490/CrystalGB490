@@ -1,4 +1,4 @@
-# Hallo 👋, Ich bin Kevin
+# Hallo 👋, Mein Name ist Kevin
 
 ich bin ein absoluter Anfänger in der großen Programmierwelt. 
 
