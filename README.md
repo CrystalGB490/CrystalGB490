@@ -15,7 +15,7 @@ Ich nutze derzeit Visual Studio Code
 <img width="75" height="75" alt="images" src="https://github.com/user-attachments/assets/38517837-ca51-42ae-b5d0-c78fc2df644a" />
 
 
-## Was sind deine jetzige Ziele?
+## Was sind meine jetzige Ziele?
 
 - C++ solide zu beherrschen
 - Kleine Spielprogramme (oder generell Programme) in C++ zu schreiben
