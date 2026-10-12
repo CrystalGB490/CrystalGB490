@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hallo 👋, Ich bin Kevin
 
-<!--
-**CrystalGB490/CrystalGB490** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Short intro -->
+ich bin ein absoluter Anfänger in der großen Programmierwelt. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Was ich zurzeit lerne? 
+Es ist C++ ! 
+
+<img width="50" height="50" alt="images" src="https://github.com/user-attachments/assets/b3416ab9-edd1-4b36-a899-090daf692060" />
+
+## Was sind deine jetzige Ziele?
+
+- C++ solide zu beherrschen
+- Kleine Spielprogramme (oder generell Programme) in C++ zu schreiben
+- Wenn ich C++ solide beherrsche, möchte ich C# auch noch lernen
