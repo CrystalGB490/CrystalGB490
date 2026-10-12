@@ -21,5 +21,5 @@ Ich nutze derzeit Visual Studio Code
 - Kleine Spielprogramme (oder generell Programme) in C++ zu schreiben
 - Wenn ich C++ solide beherrsche, möchte ich C# auch noch lernen
 
-## Wo sind deine erste C++ Projekte?
+## Wo sind meine erste C++ Projekte?
 - in den angepinnte Repository "CppProjekte"
